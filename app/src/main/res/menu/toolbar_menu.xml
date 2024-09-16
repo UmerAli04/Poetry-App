@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_poetry"
+        android:icon="@drawable/add_poetry_icon"
+        android:title="Add Poetry"
+        app:showAsAction="always" />
+</menu>
